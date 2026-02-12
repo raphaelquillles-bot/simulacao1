@@ -9,7 +9,7 @@ feat(auth): adiciona endpoint de cadastro de usuários
 
 Marque o tipo de mudança (Conventional Commits):
 
-- [ ] feat: Nova funcionalidade
+- [x] feat: Nova funcionalidade
 - [ ] fix: Correção de bug
 - [ ] refactor: Refatoração de código
 - [ ] chore: Tarefa de manutenção
